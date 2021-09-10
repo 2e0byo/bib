@@ -120,5 +120,4 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         print("Exiting safely")
         for _, f in outfs.items():
-            print(f)
             f.close()
