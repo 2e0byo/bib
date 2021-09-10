@@ -73,8 +73,8 @@ def process_region(region):
         choice = getkey()
     if choice != "s":
         f = outfs[keys[choice]]
-        print(f"Writing to {f}")
-        f.write("\n" + region)
+        print(f"Writing to {f.name}")
+        f.write("\n\n" + region)
     print("")
 
 
