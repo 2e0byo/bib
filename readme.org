@@ -1,0 +1,3 @@
+#+Title: Bibliography files
+
+This repo contains bibliography files for use with biblatex.
