@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 from argparse import ArgumentParser
 from pathlib import Path
 import subprocess
