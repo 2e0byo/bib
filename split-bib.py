@@ -106,6 +106,9 @@ def main():
                 region = ""
             else:
                 region += line
+    count += 1
+    if count > args.skip:
+        process_region(region.strip(), count)
 
     for _, f in outfs.items():
         f.close()
