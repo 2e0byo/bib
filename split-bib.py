@@ -63,7 +63,8 @@ def candidate_names():
     return s, keys
 
 
-def process_region(region):
+def process_region(region, count):
+    print(f"{_c.orange}{_c.bold}Item {count}{_c.reset}")
     print(region)
     print("")
     print(options_string)
@@ -86,6 +87,7 @@ def main():
     parser.add_argument(
         "OUTFS", nargs="+", help="Output files to split into.", type=Path
     )
+    parser.add_argument("--skip", default=0, help="Entries to skip", type=int)
     args = parser.parse_args()
 
     assert args.OUTFS
@@ -94,10 +96,13 @@ def main():
     options_string, keys = candidate_names()
 
     region = ""
+    count = 0
     with args.INF.expanduser().open() as f:
         for line in f.readlines():
             if not line.strip() and region.strip():
-                process_region(region.strip())
+                count += 1
+                if count > args.skip:
+                    process_region(region.strip(), count)
                 region = ""
             else:
                 region += line
