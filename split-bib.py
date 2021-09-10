@@ -56,7 +56,7 @@ def candidate_names():
         s += f"{f}  "
     s = s.rstrip()
     s += "? ("
-    s += _c.green + "S" + _c.orange + " to quit)"
+    s += _c.green + "S" + _c.orange + " to skip)"
     s += _c.reset
     return s, keys
 
