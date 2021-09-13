@@ -49,10 +49,11 @@ _c = Colorcodes()
 def candidate_names():
     s = _c.bold + _c.orange + "Output to: "
     keys = {"s": None}
-    for f in outfs:
+    for f in sorted(outfs):
         for i in range(len(f)):
             if f[i].lower() not in keys:
                 break
+        assert f[i].lower() not in keys
         keys[f[i].lower()] = f
         f = f[:i] + _c.green + f[i].upper() + _c.orange + f[i + 1 :]
         s += f"{f}  "
