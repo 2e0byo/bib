@@ -65,7 +65,7 @@ def candidate_names():
 
 
 def process_region(region, count):
-    print(f"{_c.orange}{_c.bold}Item {count}{_c.reset}")
+    print(f"{_c.orange}{_c.bold}Item {count}/{total}{_c.reset}")
     print(region)
     print("")
     print(options_string)
@@ -81,7 +81,7 @@ def process_region(region, count):
 
 
 def main():
-    global outfs, options_string, keys
+    global outfs, options_string, keys, total
 
     parser = ArgumentParser()
     parser.add_argument("INF", help="File to read.", type=Path)
@@ -98,15 +98,21 @@ def main():
 
     region = ""
     count = 0
+    total = 0
+    regions = []
     with args.INF.expanduser().open() as f:
         for line in f.readlines():
             if not line.strip() and region.strip():
+                total += 1
                 count += 1
                 if count > args.skip:
-                    process_region(region.strip(), count)
+                    regions.append(region.strip())
                 region = ""
             else:
                 region += line
+    for count, region in enumerate(regions):
+        process_region(region, count + args.skip + 1)
+
     count += 1
     if count > args.skip:
         process_region(region.strip(), count)
