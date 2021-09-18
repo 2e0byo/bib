@@ -1,0 +1,15 @@
+{
+  "name": "bib",
+  "version": "1.0.0",
+  "description": "Bibliography",
+  "main": "index.js",
+  "repository": "git@github.com:2e0byo/bib.git",
+  "author": "John Maximilian <2e0byo@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.1",
+    "semantic-release": "^18.0.0"
+  }
+}
