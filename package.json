@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Bibliography",
   "main": "index.js",
-  "repository": "git@github.com:2e0byo/bib.git",
+  "repository": "git://git@github.com:2e0byo/bib.git",
   "author": "John Maximilian <2e0byo@gmail.com>",
   "license": "MIT",
   "private": true,
