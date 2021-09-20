@@ -44,6 +44,7 @@ class Colorcodes(object):
 
 
 _c = Colorcodes()
+outfs = {}
 
 
 def candidate_names():
