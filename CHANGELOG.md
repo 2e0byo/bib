@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/2e0byo/bib/compare/v1.1.0...v1.2.0) (2021-09-27)
+
+
+### Features
+
+* add Through Scylla and Charybdis ([954c14b](https://github.com/2e0byo/bib/commit/954c14b5f336e8782ed331fe8f549ccb1be58885))
+
 # [1.1.0](https://github.com/2e0byo/bib/compare/v1.0.0...v1.1.0) (2021-09-20)
 
 
