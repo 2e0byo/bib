@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/2e0byo/bib/compare/v1.2.0...v1.3.0) (2021-09-27)
+
+
+### Features
+
+* add thomas loome, liberal catholicism ([68ec54f](https://github.com/2e0byo/bib/commit/68ec54f2cc1889ce9c07a626d1784019f6491267))
+
 # [1.2.0](https://github.com/2e0byo/bib/compare/v1.1.0...v1.2.0) (2021-09-27)
 
 
