@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/2e0byo/bib/compare/v1.3.0...v1.3.1) (2021-09-27)
+
+
+### Bug Fixes
+
+* fix loome ([8d2fd40](https://github.com/2e0byo/bib/commit/8d2fd403bd3f2e24e11911ac9aa50b79cd52a691))
+
 # [1.3.0](https://github.com/2e0byo/bib/compare/v1.2.0...v1.3.0) (2021-09-27)
 
 
