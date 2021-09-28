@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/2e0byo/bib/compare/v1.3.1...v1.4.0) (2021-09-28)
+
+
+### Features
+
+* add On God's Side ([8601a84](https://github.com/2e0byo/bib/commit/8601a84f3372224b7282485fcf9782f8bd22c224))
+
 ## [1.3.1](https://github.com/2e0byo/bib/compare/v1.3.0...v1.3.1) (2021-09-27)
 
 
