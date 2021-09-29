@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/2e0byo/bib/compare/v1.5.0...v1.6.0) (2021-09-29)
+
+
+### Features
+
+* **theology:** add Barmann on modernism. ([d970690](https://github.com/2e0byo/bib/commit/d970690ab43b0ef9c71193793f7f945bed8e98d1))
+
 # [1.5.0](https://github.com/2e0byo/bib/compare/v1.4.0...v1.5.0) (2021-09-29)
 
 
