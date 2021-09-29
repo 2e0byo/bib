@@ -5,6 +5,8 @@ import bibtexparser
 from bibtexparser.bwriter import BibTexWriter
 from bibtexparser.bparser import BibTexParser
 from pathlib import Path
+from io import StringIO
+from sys import stderr
 
 
 def load_uniq(fn):
@@ -23,6 +25,11 @@ def load_uniq(fn):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("FN", help="File to format.", type=Path)
+    parser.add_argument(
+        "--verify",
+        help="Exit with status 0 if nothing to be done else 1.",
+        action="store_true",
+    )
 
     args = parser.parse_args()
     fn = args.FN.expanduser()
@@ -32,9 +39,18 @@ def main():
     writer = BibTexWriter()
     writer.order_entries_by = ("author", "year")
     writer.comma_first = True
-    with fn.open("w") as f:
-        f.write(writer.write(db))
-    print(f"Saved {fn}")
+    generated = StringIO(writer.write(db))
+    if not args.verify:
+        with fn.open("w") as f:
+            f.write(generated.read())
+        print(f"Saved {fn}")
+    else:
+        with fn.open() as f:
+            for left, right in zip(f, generated):
+                if left != right:
+                    stderr.write(f"{fn} failed verification")
+                    stderr.flush()
+                    exit(1)
 
 
 if __name__ == "__main__":
