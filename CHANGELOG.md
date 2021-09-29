@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/2e0byo/bib/compare/v1.4.0...v1.5.0) (2021-09-29)
+
+
+### Features
+
+* add that awful book ([12fade0](https://github.com/2e0byo/bib/commit/12fade02b7d2258c426840bb4336273ff0907da1))
+
 # [1.4.0](https://github.com/2e0byo/bib/compare/v1.3.1...v1.4.0) (2021-09-28)
 
 
