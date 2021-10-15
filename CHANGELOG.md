@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/2e0byo/bib/compare/v1.6.0...v1.7.0) (2021-10-15)
+
+
+### Features
+
+* **theology:** tyrrel, nova et vetera ([99360ba](https://github.com/2e0byo/bib/commit/99360bab6c1df569f5fad28285f9d39e31b8b21a))
+
 # [1.6.0](https://github.com/2e0byo/bib/compare/v1.5.0...v1.6.0) (2021-09-29)
 
 
