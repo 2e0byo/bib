@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/2e0byo/bib/compare/v1.7.0...v1.8.0) (2021-11-02)
+
+
+### Features
+
+* a much abused letter ([404d6ce](https://github.com/2e0byo/bib/commit/404d6ce834758186325059d9fe79f0a8e9ca34c3))
+
 # [1.7.0](https://github.com/2e0byo/bib/compare/v1.6.0...v1.7.0) (2021-10-15)
 
 
