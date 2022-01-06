@@ -1,3 +1,13 @@
+# [1.9.0](https://github.com/2e0byo/bib/compare/v1.8.0...v1.9.0) (2022-01-06)
+
+
+### Features
+
+* **chattering:** open letter to pope francis. ([966381c](https://github.com/2e0byo/bib/commit/966381cc0536318ee010f320ea14818313244abb))
+* **church:** modernist sources. ([b9b96ad](https://github.com/2e0byo/bib/commit/b9b96ad67bba976b1c7d50ff36b08780e6317998))
+* **format.py:** handle multiple files at once. ([cc094c4](https://github.com/2e0byo/bib/commit/cc094c4ef8dee6a4e82f93e868fef6df5b3c9bd0))
+* **theology:** multiple books. ([f73e70f](https://github.com/2e0byo/bib/commit/f73e70f82855189d16fa5fce41899856a87a8016))
+
 # [1.8.0](https://github.com/2e0byo/bib/compare/v1.7.0...v1.8.0) (2021-11-02)
 
 
