@@ -1,3 +1,10 @@
+## [1.9.1](https://github.com/2e0byo/bib/compare/v1.9.0...v1.9.1) (2022-01-06)
+
+
+### Bug Fixes
+
+* **theology:** drop ? in year to make entry compile. ([6193f12](https://github.com/2e0byo/bib/commit/6193f12bb54bf9ceb02b6f8962be21e21f21ce74))
+
 # [1.9.0](https://github.com/2e0byo/bib/compare/v1.8.0...v1.9.0) (2022-01-06)
 
 
