@@ -1,3 +1,11 @@
+# [1.10.0](https://github.com/2e0byo/bib/compare/v1.9.1...v1.10.0) (2022-01-07)
+
+
+### Features
+
+* **historical:** Dissertation on St. George Mivart. ([d9d7d30](https://github.com/2e0byo/bib/commit/d9d7d3088efff42019994273aa13ae47f8f0e1ed))
+* **theology:** Newman _On Consulting the Faithful_ ([8e1f72f](https://github.com/2e0byo/bib/commit/8e1f72fa34a7233920e52407d3760f90404e339f))
+
 ## [1.9.1](https://github.com/2e0byo/bib/compare/v1.9.0...v1.9.1) (2022-01-06)
 
 
