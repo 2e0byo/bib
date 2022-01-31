@@ -1,3 +1,19 @@
+# [1.11.0](https://github.com/2e0byo/bib/compare/v1.10.0...v1.11.0) (2022-01-11)
+
+
+### Bug Fixes
+
+* **church:** {} around vatican I as author. ([21ffd61](https://github.com/2e0byo/bib/commit/21ffd6160a7640b62b4f6a8373e87b7969e96cef))
+* **philosophy:** typo. ([1291470](https://github.com/2e0byo/bib/commit/129147097bc6274689d7f42dd1f7fa8c54cfb010))
+
+
+### Features
+
+* **historical:** add article on laberthonnière in Cond. Mod. ([c7e8077](https://github.com/2e0byo/bib/commit/c7e8077dd062ac8f127eb474ee85d5082b471570))
+* **philosophy:** Reardon /Science and Religious Modernism/. ([0280208](https://github.com/2e0byo/bib/commit/02802082daa18284e3a133b724824283680ffbc7))
+* **theology:** Aidan Nichols' review of _Avant-Garde Theol. Gen._ ([b006e97](https://github.com/2e0byo/bib/commit/b006e9781d4f5f185d643378eb56f0a2899a3c59))
+* **theology:** Lemius' remarkable 'catechism' of _Pascendi_. ([2790ecc](https://github.com/2e0byo/bib/commit/2790ecc1fdc40a0d3f32a8cb0cfa5d7054bf243b))
+
 # [1.10.0](https://github.com/2e0byo/bib/compare/v1.9.1...v1.10.0) (2022-01-07)
 
 
