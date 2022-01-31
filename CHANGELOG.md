@@ -1,3 +1,16 @@
+# [1.12.0](https://github.com/2e0byo/bib/compare/v1.11.0...v1.12.0) (2022-01-31)
+
+
+### Bug Fixes
+
+* **theology:** typos. ([6908d6d](https://github.com/2e0byo/bib/commit/6908d6d52fdc2ed4dbabac95423a24a64618d19e))
+
+
+### Features
+
+* **chattering:** add a silly article by Poulat. ([55c2b43](https://github.com/2e0byo/bib/commit/55c2b4303afeabb3f86dd21b527c9353dc1e8d0b))
+* **theology:** add doi. ([4a605ec](https://github.com/2e0byo/bib/commit/4a605ec2d769b9730db9ad263dce3e370b29c78b))
+
 # [1.11.0](https://github.com/2e0byo/bib/compare/v1.10.0...v1.11.0) (2022-01-11)
 
 
