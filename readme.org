@@ -1,3 +1,17 @@
 #+Title: Bibliography files
 
 This repo contains bibliography files for use with biblatex.
+
+* Formatting
+
+A script, ~format.py~ is provided, which standardises the files.  When used as a
+pre-commit hook it tends to keep diffs in order.
+
+* Roadmap
+
+Some more features would be desirable:
+
+- [ ] Detecting subtitles in the title field (normally indicated by ~:~, but other
+  punctuation such as ~?~ can be used).
+- [ ] Suggesting urls/dois/arks.  This might be a larger task than it looks, and
+  might belong in a separate project.
