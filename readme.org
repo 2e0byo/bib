@@ -15,3 +15,17 @@ Some more features would be desirable:
   punctuation such as ~?~ can be used).
 - [ ] Suggesting urls/dois/arks.  This might be a larger task than it looks, and
   might belong in a separate project.
+
+* Staging
+
+Since I format these files with leading-comma syntax, the emacs bibtex tools do
+not play nicely with the files (well, that's what you get if you parse with
+regexs...).  This does not much bother me (~helm-bibtex~ still parses fine, so
+everything I care about works), but it does mean that some tools like
+~isbn-to-bibtex~ misbehave as they use standard bibtex insertion commands, which
+baulk on trying to parse the file to sort the entry.  The solution is to have a
+blank file, ~staging.bib~ which is used only as a target for these automatic
+referencing tools.  Whatever is inserted here is cleaned up manually and then
+moved to the appropriate file before committing.  Having a separate staging file
+is actually advantageous, as it encourages manual cleanup---and the automatic
+records are rarely useable without editing.
