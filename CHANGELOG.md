@@ -1,3 +1,19 @@
+# [1.13.0](https://github.com/2e0byo/bib/compare/v1.12.0...v1.13.0) (2022-04-13)
+
+
+### Features
+
+* another lecture by paul vi. ([37b88a1](https://github.com/2e0byo/bib/commit/37b88a1e01a45475310d1df53bfb61fcd9fde959))
+* Caldecott ed. _Beyond the Prosaic_ (reform of the reform). ([c194f16](https://github.com/2e0byo/bib/commit/c194f16d54075e14f406450329f0c6ecc0a4e9b0))
+* ed. Reid, _T&T Clark handbook to the liturgy_. ([f384256](https://github.com/2e0byo/bib/commit/f3842563324d84d370c959705a1db82b8664ae96))
+* lots of books. ([dfe9203](https://github.com/2e0byo/bib/commit/dfe9203b9b49a586d4fea9dfe8860ce0cd87f582))
+* paul vi's rude audience 17 march 1965. ([24a1b0e](https://github.com/2e0byo/bib/commit/24a1b0e7b96be6b8e32d75c08f8ba985d9344175))
+* Reid _The organic development of the Liturgy_. ([48ff979](https://github.com/2e0byo/bib/commit/48ff979a7d57e1d5dc683011486438efeea55133))
+* Reid article "Twentieth Cent. Lit. Mov.". ([15be22c](https://github.com/2e0byo/bib/commit/15be22c7dcb089d818d993628e4f73bcd40102af))
+* Rousseau _Histoire du mouvement liturgique_. ([18c3759](https://github.com/2e0byo/bib/commit/18c37596ceaf83473815454e47c32f74d0b0b51b))
+* seasoltz _new Liturgy, new Laws_. ([fa863a8](https://github.com/2e0byo/bib/commit/fa863a8caa346cd2066007ab951c55274bbe8517))
+* Turner _Whose Mass is it?_. ([95d0092](https://github.com/2e0byo/bib/commit/95d009209b542479782e2767fdb1ad31bca3cdaa))
+
 # [1.12.0](https://github.com/2e0byo/bib/compare/v1.11.0...v1.12.0) (2022-01-31)
 
 
