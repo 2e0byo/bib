@@ -1,3 +1,12 @@
+# [1.14.0](https://github.com/2e0byo/bib/compare/v1.13.0...v1.14.0) (2022-04-29)
+
+
+### Features
+
+* **liturgical:** Bouyer _Eucharist_. ([d53f5a5](https://github.com/2e0byo/bib/commit/d53f5a5c0d13fc5d6018dbccfeae02311e82db03))
+* Schillebeeckx, _God and the Future of Man_. ([f6624db](https://github.com/2e0byo/bib/commit/f6624dbbb136c87a34d5657d7abe77ac43551718))
+* White's chapter in Res. Thom. ([24c53d5](https://github.com/2e0byo/bib/commit/24c53d5dab59cd2d96e30887d478ec9632c5cc48))
+
 # [1.13.0](https://github.com/2e0byo/bib/compare/v1.12.0...v1.13.0) (2022-04-13)
 
 
