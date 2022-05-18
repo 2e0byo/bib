@@ -1,3 +1,10 @@
+# [1.16.0](https://github.com/2e0byo/bib/compare/v1.15.0...v1.16.0) (2022-05-18)
+
+
+### Features
+
+* bouyer, _cosmos_. ([b49fc21](https://github.com/2e0byo/bib/commit/b49fc217d945d5196818333d7a707d21013af06c))
+
 # [1.15.0](https://github.com/2e0byo/bib/compare/v1.14.0...v1.15.0) (2022-05-13)
 
 
