@@ -1,3 +1,20 @@
+# [1.15.0](https://github.com/2e0byo/bib/compare/v1.14.0...v1.15.0) (2022-05-13)
+
+
+### Bug Fixes
+
+* adopt standard. ([056f9b2](https://github.com/2e0byo/bib/commit/056f9b2b692a234e11a360f6307d9ec99481304d))
+* use --. ([9d2cac3](https://github.com/2e0byo/bib/commit/9d2cac3641796dfc5cbf4c63ea0bc7abafd72663))
+
+
+### Features
+
+* article on reform of the reform. ([fed32ac](https://github.com/2e0byo/bib/commit/fed32acdc5925782491ced1e2739a559cc5df377))
+* chiron. ([0400d9b](https://github.com/2e0byo/bib/commit/0400d9b2b7dff1eb39aedbac69b433290f0045c4))
+* lots of books. ([b374bc2](https://github.com/2e0byo/bib/commit/b374bc20d68322765b9ff91e1d0714e66c7eace6))
+* silly article. ([89aa57d](https://github.com/2e0byo/bib/commit/89aa57d46eedde89da83b357f7089a1308df8ae7))
+* two silly books. ([7c34f7e](https://github.com/2e0byo/bib/commit/7c34f7e3f915dde2f880bb70c2887e30d58c4c25))
+
 # [1.14.0](https://github.com/2e0byo/bib/compare/v1.13.0...v1.14.0) (2022-04-29)
 
 
