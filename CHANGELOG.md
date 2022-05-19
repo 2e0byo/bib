@@ -1,3 +1,15 @@
+# [1.17.0](https://github.com/2e0byo/bib/compare/v1.16.0...v1.17.0) (2022-05-19)
+
+
+### Bug Fixes
+
+* typo. ([d696f46](https://github.com/2e0byo/bib/commit/d696f469f8640849b4ded43b8db1bcc715e5f0a2))
+
+
+### Features
+
+* bouyer, commentary. ([228f46a](https://github.com/2e0byo/bib/commit/228f46a97960ef0b5ce79071db19956cb0eed4fd))
+
 # [1.16.0](https://github.com/2e0byo/bib/compare/v1.15.0...v1.16.0) (2022-05-18)
 
 
