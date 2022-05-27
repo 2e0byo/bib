@@ -1,3 +1,11 @@
+# [1.18.0](https://github.com/2e0byo/bib/compare/v1.17.0...v1.18.0) (2022-05-27)
+
+
+### Features
+
+* Bouyer Gnosis. ([b09b497](https://github.com/2e0byo/bib/commit/b09b497499cc33e4f3d55184335f4f10c6628c30))
+* Gelineau. ([342c0c7](https://github.com/2e0byo/bib/commit/342c0c7bc786c6655a4caf8cf6277b7315bf9768))
+
 # [1.17.0](https://github.com/2e0byo/bib/compare/v1.16.0...v1.17.0) (2022-05-19)
 
 
