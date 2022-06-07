@@ -1,3 +1,10 @@
+# [1.19.0](https://github.com/2e0byo/bib/compare/v1.18.0...v1.19.0) (2022-06-07)
+
+
+### Features
+
+* pink on anscombe ([25813fa](https://github.com/2e0byo/bib/commit/25813fa04fd2055a9e42de3f82a9766b6dfef978))
+
 # [1.18.0](https://github.com/2e0byo/bib/compare/v1.17.0...v1.18.0) (2022-05-27)
 
 
