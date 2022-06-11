@@ -1,3 +1,11 @@
+# [1.20.0](https://github.com/2e0byo/bib/compare/v1.19.0...v1.20.0) (2022-06-11)
+
+
+### Features
+
+* pink. ([7e5464e](https://github.com/2e0byo/bib/commit/7e5464e26d349857cf074ae485bc7827a91b4d3f))
+* weil. ([6414594](https://github.com/2e0byo/bib/commit/641459410caca7f10cf20ddfa8fadbeebe921e09))
+
 # [1.19.0](https://github.com/2e0byo/bib/compare/v1.18.0...v1.19.0) (2022-06-07)
 
 
