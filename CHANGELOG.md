@@ -1,3 +1,11 @@
+# [1.21.0](https://github.com/2e0byo/bib/compare/v1.20.0...v1.21.0) (2022-06-30)
+
+
+### Features
+
+* flynn on Fourviere. ([8bf65f9](https://github.com/2e0byo/bib/commit/8bf65f930afb3275f3364803d9a1ebd75522326c))
+* mod. stuff. ([c05855e](https://github.com/2e0byo/bib/commit/c05855e42323034b856ffb29888a523bc75f264d))
+
 # [1.20.0](https://github.com/2e0byo/bib/compare/v1.19.0...v1.20.0) (2022-06-11)
 
 
