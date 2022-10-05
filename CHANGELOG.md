@@ -1,3 +1,10 @@
+# [1.23.0](https://github.com/2e0byo/bib/compare/v1.22.0...v1.23.0) (2022-10-05)
+
+
+### Features
+
+* aquinas. ([d55ea52](https://github.com/2e0byo/bib/commit/d55ea520c897b63a21c2daddcc0340a48ec30217))
+
 # [1.22.0](https://github.com/2e0byo/bib/compare/v1.21.0...v1.22.0) (2022-10-03)
 
 
