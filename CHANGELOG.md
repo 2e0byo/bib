@@ -1,3 +1,10 @@
+## [1.23.1](https://github.com/2e0byo/bib/compare/v1.23.0...v1.23.1) (2022-10-05)
+
+
+### Bug Fixes
+
+* milbank.  (alas only the book.) ([87866cb](https://github.com/2e0byo/bib/commit/87866cb4abd376e04c186edaf3cf3239ef7c6c76))
+
 # [1.23.0](https://github.com/2e0byo/bib/compare/v1.22.0...v1.23.0) (2022-10-05)
 
 
