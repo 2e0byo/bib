@@ -1,3 +1,10 @@
+# [1.24.0](https://github.com/2e0byo/bib/compare/v1.23.1...v1.24.0) (2022-10-27)
+
+
+### Features
+
+* loisy evangile et eglise. ([f5abe81](https://github.com/2e0byo/bib/commit/f5abe816c553ac39ae8eb712fcd81602f29fa475))
+
 ## [1.23.1](https://github.com/2e0byo/bib/compare/v1.23.0...v1.23.1) (2022-10-05)
 
 
