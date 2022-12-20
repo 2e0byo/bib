@@ -1,3 +1,10 @@
+# [1.25.0](https://github.com/2e0byo/bib/compare/v1.24.0...v1.25.0) (2022-12-20)
+
+
+### Features
+
+* mann voir. ([6df68bd](https://github.com/2e0byo/bib/commit/6df68bdf24251a8f61e61ad5acdd5fec8577dcbe))
+
 # [1.24.0](https://github.com/2e0byo/bib/compare/v1.23.1...v1.24.0) (2022-10-27)
 
 
