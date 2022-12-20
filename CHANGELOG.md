@@ -1,3 +1,40 @@
+# [1.24.0](https://github.com/2e0byo/bib/compare/v1.23.1...v1.24.0) (2022-10-27)
+
+
+### Features
+
+* loisy evangile et eglise. ([f5abe81](https://github.com/2e0byo/bib/commit/f5abe816c553ac39ae8eb712fcd81602f29fa475))
+
+## [1.23.1](https://github.com/2e0byo/bib/compare/v1.23.0...v1.23.1) (2022-10-05)
+
+
+### Bug Fixes
+
+* milbank.  (alas only the book.) ([87866cb](https://github.com/2e0byo/bib/commit/87866cb4abd376e04c186edaf3cf3239ef7c6c76))
+
+# [1.23.0](https://github.com/2e0byo/bib/compare/v1.22.0...v1.23.0) (2022-10-05)
+
+
+### Features
+
+* aquinas. ([d55ea52](https://github.com/2e0byo/bib/commit/d55ea520c897b63a21c2daddcc0340a48ec30217))
+
+# [1.22.0](https://github.com/2e0byo/bib/compare/v1.21.0...v1.22.0) (2022-10-03)
+
+
+### Features
+
+* aas 1962. ([b54937a](https://github.com/2e0byo/bib/commit/b54937a376d47a48109c2e4af37ae487919cf87c))
+* duffy on translation. ([ceb2c22](https://github.com/2e0byo/bib/commit/ceb2c22eecdc033f5e9e47b036e5b95e0a4bdf20))
+* le phen. hum. ([bff73ab](https://github.com/2e0byo/bib/commit/bff73ab5e5b8875466e6184b243ee1144ed6300f))
+* lubac-daniélou correspondence. ([d06fb61](https://github.com/2e0byo/bib/commit/d06fb61f966d98ef675b3fb2f866d0e75db2045b))
+* maritain /on the phil of hist/. ([42ff7e3](https://github.com/2e0byo/bib/commit/42ff7e33af62456052adae874eb59995065179b5))
+* medewar being mean to t. ([59e6ffd](https://github.com/2e0byo/bib/commit/59e6ffd180f24aae713d674a21e1be4c6047277b))
+* schmitz on danielou. ([0898dfb](https://github.com/2e0byo/bib/commit/0898dfb5a5ac2aeaa84df350951ce7fc505d4ee8))
+* suspended ([db45b8c](https://github.com/2e0byo/bib/commit/db45b8c7b1ea22099982f1bc78a6842a4d383479))
+* teilhard on orig. sin. ([6d09594](https://github.com/2e0byo/bib/commit/6d09594c924be6c168b8d82bc0ef620ff7ecefaa))
+* that french phil textbook. ([093342e](https://github.com/2e0byo/bib/commit/093342e19c668c7807872f702364c3ac9297f5ce))
+
 # [1.21.0](https://github.com/2e0byo/bib/compare/v1.20.0...v1.21.0) (2022-06-30)
 
 
