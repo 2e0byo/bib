@@ -1,12 +1,13 @@
 #! /usr/bin/python
 
 import argparse
-import bibtexparser
-from bibtexparser.bwriter import BibTexWriter
-from bibtexparser.bparser import BibTexParser
-from pathlib import Path
 from io import StringIO
+from pathlib import Path
 from sys import stderr
+
+import bibtexparser
+from bibtexparser.bparser import BibTexParser
+from bibtexparser.bwriter import BibTexWriter
 
 
 def load_uniq(fn):
