@@ -41,7 +41,7 @@ def main():
         db = load_uniq(fn)
         writer = BibTexWriter()
         writer.order_entries_by = ("author", "year")
-        writer.comma_first = True
+        # writer.comma_first = True
         generated = StringIO(writer.write(db))
         if not args.verify:
             with fn.open("w") as f:
