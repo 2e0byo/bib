@@ -1,3 +1,29 @@
+# [1.26.0](https://github.com/2e0byo/bib/compare/v1.25.0...v1.26.0) (2023-01-06)
+
+
+### Bug Fixes
+
+* no more comma first... ([ec29e68](https://github.com/2e0byo/bib/commit/ec29e686cc55c4798a594b5228843b5bdde8cef3))
+* remove duplicate. ([325d3f9](https://github.com/2e0byo/bib/commit/325d3f9d7439437bf506b799c95ae11cf6f66029))
+
+
+### Features
+
+* another Rousselot ([1bb30ea](https://github.com/2e0byo/bib/commit/1bb30ea4f9c4866739675348e8bd9b249d31eb1f))
+* birot on bouyer. ([541fc9e](https://github.com/2e0byo/bib/commit/541fc9e481d58d4c4ef82d8626e9999888e07247))
+* breakings tyrrell. ([291e76b](https://github.com/2e0byo/bib/commit/291e76b0c2f866182eaa9f99a2adf1d41e7b73b8))
+* lots and lots of entries ;). ([8f9c1d7](https://github.com/2e0byo/bib/commit/8f9c1d7c2d91f22ac0fc3a76a22999a56651255e))
+* lots, mostly rousselot. ([5ffa5ac](https://github.com/2e0byo/bib/commit/5ffa5ac0159ec6431443afe20222c23d6852808b))
+* mcdermott on lubac and rousselot. ([fc655bd](https://github.com/2e0byo/bib/commit/fc655bda5262fa7858cc4783180cf14fe6f003eb))
+* mcdermott on unpublished Rousselot. ([050b22d](https://github.com/2e0byo/bib/commit/050b22df482dd859047add5b52ad8c7baeda17bf))
+* review bouyer by duchesne. ([c2047f3](https://github.com/2e0byo/bib/commit/c2047f3aae788b78dc5d393b364506fdc23d582d))
+* review bouyer. ([e384846](https://github.com/2e0byo/bib/commit/e3848462961957efd9e0698a43880f7d56812125))
+* review of feu. ([c76c335](https://github.com/2e0byo/bib/commit/c76c3354c7ace6c631216556b9044ad58977ddb9))
+* review Sertillanges ([7ebab25](https://github.com/2e0byo/bib/commit/7ebab250fa5cf47ec40f0bae533a2b8acc384735))
+* seseboue on surnaturel. ([2282f4a](https://github.com/2e0byo/bib/commit/2282f4a4704014df579b39a042048d7b84816a5b))
+* silly italian article on pope francis. ([fa4702a](https://github.com/2e0byo/bib/commit/fa4702af853b358d2d71089180b416165cebbd0d))
+* tourpe on lubac. ([1a073a5](https://github.com/2e0byo/bib/commit/1a073a5841478e007b856cdf151ab797f588830e))
+
 # [1.25.0](https://github.com/2e0byo/bib/compare/v1.24.0...v1.25.0) (2022-12-20)
 
 
