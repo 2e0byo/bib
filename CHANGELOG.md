@@ -1,3 +1,16 @@
+# [1.28.0](https://github.com/2e0byo/bib/compare/v1.27.0...v1.28.0) (2023-02-10)
+
+
+### Bug Fixes
+
+* add url. ([41f5a84](https://github.com/2e0byo/bib/commit/41f5a84309c3a118dcc7745fc0f9ce5ece4dd071))
+
+
+### Features
+
+* lagrange proving only true things are true. ([e622c55](https://github.com/2e0byo/bib/commit/e622c556c9af2d9acaeb414de5f40f13df7c8519))
+* notre charge. ([cc19d10](https://github.com/2e0byo/bib/commit/cc19d10f1c8a6af006b5fb57ffb1068dc84884dc))
+
 # [1.27.0](https://github.com/2e0byo/bib/compare/v1.26.0...v1.27.0) (2023-02-10)
 
 
