@@ -1,3 +1,10 @@
+# [1.27.0](https://github.com/2e0byo/bib/compare/v1.26.0...v1.27.0) (2023-02-10)
+
+
+### Features
+
+* blondel ([3ee4441](https://github.com/2e0byo/bib/commit/3ee4441c3b387127b7863dc288c92862bde7e513))
+
 # [1.26.0](https://github.com/2e0byo/bib/compare/v1.25.0...v1.26.0) (2023-01-06)
 
 
