@@ -1,3 +1,17 @@
+# [1.29.0](https://github.com/2e0byo/bib/compare/v1.28.0...v1.29.0) (2023-02-18)
+
+
+### Bug Fixes
+
+* correct title. ([67459a6](https://github.com/2e0byo/bib/commit/67459a658937f740066fc47394e9d996ba762963))
+
+
+### Features
+
+* blondel-bremond correspondance. ([b057ae3](https://github.com/2e0byo/bib/commit/b057ae3969767df8a652efa0f5d58e5b14ee3fd4))
+* bouyer on newman. ([140b1e2](https://github.com/2e0byo/bib/commit/140b1e24dcc6627449a87c11c24301077e6758ca))
+* mcdermott. ([8c67652](https://github.com/2e0byo/bib/commit/8c67652ccf0f8890f1342bca2b4caf8fca011a5a))
+
 # [1.28.0](https://github.com/2e0byo/bib/compare/v1.27.0...v1.28.0) (2023-02-10)
 
 
