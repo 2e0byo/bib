@@ -1,3 +1,12 @@
+# [1.30.0](https://github.com/2e0byo/bib/compare/v1.29.0...v1.30.0) (2023-03-24)
+
+
+### Features
+
+* more books. ([a556806](https://github.com/2e0byo/bib/commit/a556806209a87c230a2b1b03d7785736b51ab185))
+* o'malley vatican I. ([87a282a](https://github.com/2e0byo/bib/commit/87a282a0904473707e9f122275ccf6b6e1213f46))
+* zagzebski (again). ([74e29bb](https://github.com/2e0byo/bib/commit/74e29bbde9ac3d8f6d3e6b40906f8e375ae22ceb))
+
 # [1.29.0](https://github.com/2e0byo/bib/compare/v1.28.0...v1.29.0) (2023-02-18)
 
 
