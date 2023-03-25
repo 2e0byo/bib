@@ -1,3 +1,26 @@
+# [1.30.0](https://github.com/2e0byo/bib/compare/v1.29.0...v1.30.0) (2023-03-24)
+
+
+### Features
+
+* more books. ([a556806](https://github.com/2e0byo/bib/commit/a556806209a87c230a2b1b03d7785736b51ab185))
+* o'malley vatican I. ([87a282a](https://github.com/2e0byo/bib/commit/87a282a0904473707e9f122275ccf6b6e1213f46))
+* zagzebski (again). ([74e29bb](https://github.com/2e0byo/bib/commit/74e29bbde9ac3d8f6d3e6b40906f8e375ae22ceb))
+
+# [1.29.0](https://github.com/2e0byo/bib/compare/v1.28.0...v1.29.0) (2023-02-18)
+
+
+### Bug Fixes
+
+* correct title. ([67459a6](https://github.com/2e0byo/bib/commit/67459a658937f740066fc47394e9d996ba762963))
+
+
+### Features
+
+* blondel-bremond correspondance. ([b057ae3](https://github.com/2e0byo/bib/commit/b057ae3969767df8a652efa0f5d58e5b14ee3fd4))
+* bouyer on newman. ([140b1e2](https://github.com/2e0byo/bib/commit/140b1e24dcc6627449a87c11c24301077e6758ca))
+* mcdermott. ([8c67652](https://github.com/2e0byo/bib/commit/8c67652ccf0f8890f1342bca2b4caf8fca011a5a))
+
 # [1.28.0](https://github.com/2e0byo/bib/compare/v1.27.0...v1.28.0) (2023-02-10)
 
 
