@@ -1,3 +1,12 @@
+# [1.31.0](https://github.com/2e0byo/bib/compare/v1.30.0...v1.31.0) (2023-03-25)
+
+
+### Features
+
+* bouyer cosmos. ([0bb8d8f](https://github.com/2e0byo/bib/commit/0bb8d8f4282e24136f1a4e538bb5787316eca48c))
+* congar lit. articles. ([b244251](https://github.com/2e0byo/bib/commit/b244251a26116eae9eed5602e6102cb6e9d24fab))
+* more teilhard. ([1f48f3d](https://github.com/2e0byo/bib/commit/1f48f3d6ceef422519daca1f553f43b622d6c52d))
+
 # [1.30.0](https://github.com/2e0byo/bib/compare/v1.29.0...v1.30.0) (2023-03-24)
 
 
