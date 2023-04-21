@@ -1,3 +1,11 @@
+# [1.33.0](https://github.com/2e0byo/bib/compare/v1.32.0...v1.33.0) (2023-04-20)
+
+
+### Features
+
+* balthasar on theology and sanctity. ([19e2217](https://github.com/2e0byo/bib/commit/19e22176a22c944ec6849182cd8541b9e43fc1e0))
+* danielou one-page review of gilson. ([ad432b0](https://github.com/2e0byo/bib/commit/ad432b0308ca5fbf4f7971d8c8dfab151f25d4f7))
+
 # [1.32.0](https://github.com/2e0byo/bib/compare/v1.31.0...v1.32.0) (2023-04-19)
 
 
