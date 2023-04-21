@@ -1,3 +1,27 @@
+# [1.33.0](https://github.com/2e0byo/bib/compare/v1.32.0...v1.33.0) (2023-04-20)
+
+
+### Features
+
+* balthasar on theology and sanctity. ([19e2217](https://github.com/2e0byo/bib/commit/19e22176a22c944ec6849182cd8541b9e43fc1e0))
+* danielou one-page review of gilson. ([ad432b0](https://github.com/2e0byo/bib/commit/ad432b0308ca5fbf4f7971d8c8dfab151f25d4f7))
+
+# [1.32.0](https://github.com/2e0byo/bib/compare/v1.31.0...v1.32.0) (2023-04-19)
+
+
+### Bug Fixes
+
+* typo. ([22cbfe2](https://github.com/2e0byo/bib/commit/22cbfe2350afffb38f5ddd0b305247e7ec6d568e))
+
+
+### Features
+
+* balthasar theol. et saint. ([31a7ad6](https://github.com/2e0byo/bib/commit/31a7ad6aca2d47500a179e14fd4ba80ba782e714))
+* chenu. ([27f6cee](https://github.com/2e0byo/bib/commit/27f6cee8718da2847d2fafd5b433d777bd7bb7e3))
+* daniélou humanisme et spiritualité. ([0718ebb](https://github.com/2e0byo/bib/commit/0718ebb720c4a34879774a6ed608a5d6c5f54ab0))
+* daniélou orientation. ([a0918ab](https://github.com/2e0byo/bib/commit/a0918ab9b97065583b54ca0aa0cc776767a012df))
+* weill on bouyer & balthasar. ([143b2dc](https://github.com/2e0byo/bib/commit/143b2dcebdc9cfbff2132dbb9d43b3c42ae155e6))
+
 # [1.31.0](https://github.com/2e0byo/bib/compare/v1.30.0...v1.31.0) (2023-03-25)
 
 
