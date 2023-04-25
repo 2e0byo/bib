@@ -1,3 +1,24 @@
+# [1.34.0](https://github.com/2e0byo/bib/compare/v1.33.0...v1.34.0) (2023-04-23)
+
+
+### Bug Fixes
+
+* add title. ([faa2c3a](https://github.com/2e0byo/bib/commit/faa2c3a4b4b2beca5008ab947aa2e641644ca509))
+* boyer. ([3eb698e](https://github.com/2e0byo/bib/commit/3eb698ebc31ed6c127338f90a656438ce97e50df))
+* formatting! ([93ac90d](https://github.com/2e0byo/bib/commit/93ac90d1a64121d8e2dcab197bb63aaa0f34a911))
+* typo. ([2d752b5](https://github.com/2e0byo/bib/commit/2d752b5bf1bda61b40709015373b2493cf5b8c30))
+
+
+### Features
+
+* chenu silly communist books. ([53a4f9f](https://github.com/2e0byo/bib/commit/53a4f9fbc61ac27aab4938e93a445ba7d3f019e0))
+* danielou history of the church. ([0539942](https://github.com/2e0byo/bib/commit/053994260120f644c8c4cb6982f00efa3c5ba83d))
+* danielou, scandal of truth. ([80076e0](https://github.com/2e0byo/bib/commit/80076e05ee0f756459371c71815966de2e31a6f4))
+* fouilloux sources chretiennes. ([0581f1d](https://github.com/2e0byo/bib/commit/0581f1d1fcf06fce88adfa2a4839bdefeb34dc54))
+* lots!  Mostly R. ([2ac8107](https://github.com/2e0byo/bib/commit/2ac81076257a661bc3a2d74303c928b4b2337ef1))
+* lubac. ([42b967c](https://github.com/2e0byo/bib/commit/42b967c85da3d39e8698753fee8db9305b611b48))
+* that recording. ([3936f2a](https://github.com/2e0byo/bib/commit/3936f2acf655002bf4bd65531a745f712a7476de))
+
 # [1.33.0](https://github.com/2e0byo/bib/compare/v1.32.0...v1.33.0) (2023-04-20)
 
 
