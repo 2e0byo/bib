@@ -1,3 +1,10 @@
+# [1.35.0](https://github.com/2e0byo/bib/compare/v1.34.0...v1.35.0) (2023-04-25)
+
+
+### Features
+
+* chenu theology of matter (!). ([9ea44c5](https://github.com/2e0byo/bib/commit/9ea44c5294f9dfbcbd3229badb2423d1fb58e934))
+
 # [1.34.0](https://github.com/2e0byo/bib/compare/v1.33.0...v1.34.0) (2023-04-23)
 
 
