@@ -1,3 +1,24 @@
+# [1.36.0](https://github.com/2e0byo/bib/compare/v1.35.0...v1.36.0) (2023-05-02)
+
+
+### Bug Fixes
+
+* author full name. ([e8a3cf0](https://github.com/2e0byo/bib/commit/e8a3cf00051422f3a7047c932181c021bfb8334f))
+* biography of tyrrell. ([1a56f23](https://github.com/2e0byo/bib/commit/1a56f238db44db93b17ed77ab9a00c92c03fcffa))
+* typos. ([eab0e46](https://github.com/2e0byo/bib/commit/eab0e46f8fed2765fe497836b746270927d6cd08))
+
+
+### Features
+
+* bib. ([1249476](https://github.com/2e0byo/bib/commit/124947612573eda705c6aa01e8deb4b29a459123))
+* chenu, bouyer, danielou. ([0b2923c](https://github.com/2e0byo/bib/commit/0b2923c9dedb60cf925f95964ce7f93988da510a))
+* congar au coeur. ([9762846](https://github.com/2e0byo/bib/commit/976284608f144ce87e16f361f0b3d25ce576a4b1))
+* goichot on loisy. ([1bb0493](https://github.com/2e0byo/bib/commit/1bb04935009a8d8bd8a793c7124e8d2ca03fb6d8))
+* loisy. ([4579d1a](https://github.com/2e0byo/bib/commit/4579d1ae569c06f295c6c3016b7f7759105251a9))
+* teilhard. ([047a353](https://github.com/2e0byo/bib/commit/047a353b6bac02d6b0948e0302818a62a575fa4e))
+* three articles. ([587d2c2](https://github.com/2e0byo/bib/commit/587d2c25c95bba5277718237eca5129a7dcc099d))
+* tyrrell. ([0ffde76](https://github.com/2e0byo/bib/commit/0ffde76ca0843afb05f1dbe2004fb248c50d6dce))
+
 # [1.35.0](https://github.com/2e0byo/bib/compare/v1.34.0...v1.35.0) (2023-04-25)
 
 
