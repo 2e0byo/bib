@@ -1,3 +1,15 @@
+# [1.38.0](https://github.com/2e0byo/bib/compare/v1.37.0...v1.38.0) (2023-05-05)
+
+
+### Bug Fixes
+
+* nbsp before separated ?. ([a0e95e8](https://github.com/2e0byo/bib/commit/a0e95e88679b715b969d8717d7d1539bb83a2a0e))
+
+
+### Features
+
+* bouyer's letter on the CPL. ([55fbabe](https://github.com/2e0byo/bib/commit/55fbabec972c027f046b75e07e9ec864e2b33d03))
+
 # [1.37.0](https://github.com/2e0byo/bib/compare/v1.36.0...v1.37.0) (2023-05-05)
 
 
