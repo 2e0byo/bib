@@ -1,3 +1,10 @@
+# [1.37.0](https://github.com/2e0byo/bib/compare/v1.36.0...v1.37.0) (2023-05-05)
+
+
+### Features
+
+* wood. ([df5cafd](https://github.com/2e0byo/bib/commit/df5cafdf3467b3d7285f19ae789f9c47165f1577))
+
 # [1.36.0](https://github.com/2e0byo/bib/compare/v1.35.0...v1.36.0) (2023-05-02)
 
 
