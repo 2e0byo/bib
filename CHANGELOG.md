@@ -1,3 +1,11 @@
+# [1.39.0](https://github.com/2e0byo/bib/compare/v1.38.0...v1.39.0) (2023-05-05)
+
+
+### Features
+
+* article on cupich being daft. ([143c6d5](https://github.com/2e0byo/bib/commit/143c6d50ce2c1334c930ce29fbb8778beab01a8b))
+* battering ram marly. ([94ef9c6](https://github.com/2e0byo/bib/commit/94ef9c6f53f1770ed5d2692225f3622a13abb5b2))
+
 # [1.38.0](https://github.com/2e0byo/bib/compare/v1.37.0...v1.38.0) (2023-05-05)
 
 
