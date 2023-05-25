@@ -1,3 +1,39 @@
+# [1.40.0](https://github.com/2e0byo/bib/compare/v1.39.0...v1.40.0) (2023-05-25)
+
+
+### Bug Fixes
+
+* add pages and volume. ([29925e9](https://github.com/2e0byo/bib/commit/29925e9a603d58e37463f798d481f517ec438547))
+* drop editor for journal. ([71079b1](https://github.com/2e0byo/bib/commit/71079b1426cea0325aadc3f903e845ff9a2f8968))
+* missing pages. ([2422f2e](https://github.com/2e0byo/bib/commit/2422f2ef5670305ea1e6590c7de911865b4b7609))
+* titlecase. ([d225de0](https://github.com/2e0byo/bib/commit/d225de0cf315d24ce0ef8d5ba4e7795b14540fb9))
+* try adding year for online. ([7f54acf](https://github.com/2e0byo/bib/commit/7f54acf4d6df396beff923436f6a485246bbcdcc))
+* typo. ([d9245c1](https://github.com/2e0byo/bib/commit/d9245c1d33901f182de41cc1e472d471bcc20255))
+
+
+### Features
+
+* a perverted devotion II (T's rejected article). ([ea804c0](https://github.com/2e0byo/bib/commit/ea804c016e261add093f50a2f427ec4337b2f404))
+* B review meta-unpronouncable. ([bda7903](https://github.com/2e0byo/bib/commit/bda7903c4f9bb09af30ec0cb8c3989abe60d82c6))
+* calvetti. ([38603e6](https://github.com/2e0byo/bib/commit/38603e6b2539708c844ae18feb7283835ad18726))
+* cekada. ([38acb35](https://github.com/2e0byo/bib/commit/38acb35138bb70448870070b5eb2f1af841903db))
+* citations. ([d06939b](https://github.com/2e0byo/bib/commit/d06939b1fd680c469cac83c6ffa363c1c05d89cf))
+* coulson. ([32b5ac6](https://github.com/2e0byo/bib/commit/32b5ac6c718c193074cba5a4538f7a5ea0f8d8e9))
+* cuchet. ([53236f1](https://github.com/2e0byo/bib/commit/53236f1164a17ca6e17c3793824c51a7c4017499))
+* D. hungarian guy. ([82457ef](https://github.com/2e0byo/bib/commit/82457ef8ae8da8fd79f09fb599806a954789f72d))
+* daly. ([379ed50](https://github.com/2e0byo/bib/commit/379ed5012462c29cabb37313b7cecca0c2404fe0))
+* hemming. ([e9a9411](https://github.com/2e0byo/bib/commit/e9a9411ed19471b5e2d9a165b20fb2ddc68c42d6))
+* hollon's bad book. ([29a5464](https://github.com/2e0byo/bib/commit/29a5464a3847e905186848294f14dddd32a2ae45))
+* innocent smith! ([25acd7d](https://github.com/2e0byo/bib/commit/25acd7df7f6617f215db542e358f7a2e9fb5308e))
+* lubac on development. ([c900786](https://github.com/2e0byo/bib/commit/c90078684708ba4233b7190e69088f1b845aa419))
+* more pristas. ([2450c5f](https://github.com/2e0byo/bib/commit/2450c5fbbd1e0e7a943ea8ef79622f779370251f))
+* pink on coercion. ([4554e8e](https://github.com/2e0byo/bib/commit/4554e8e36ed909ba2e14f78cce83658db16a6f9d))
+* pristas. ([1db3512](https://github.com/2e0byo/bib/commit/1db35120a4c53e4f1bdd22ecca775a937c5bca7e))
+* RGL on HG. ([a01d960](https://github.com/2e0byo/bib/commit/a01d96014431e375bd37dba9ebe3c9c2c3c0f882))
+* weaver. ([244fa14](https://github.com/2e0byo/bib/commit/244fa14c88063f834d84819571c0a42ae78e6707))
+* wood. ([1798b28](https://github.com/2e0byo/bib/commit/1798b28dec49095229594fcfc8895e7692b05cbe))
+* zundel review. ([ee9a5d2](https://github.com/2e0byo/bib/commit/ee9a5d2284c3568cf305f56aaf3399c705854fc3))
+
 # [1.39.0](https://github.com/2e0byo/bib/compare/v1.38.0...v1.39.0) (2023-05-05)
 
 
