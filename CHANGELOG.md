@@ -1,3 +1,23 @@
+# [1.41.0](https://github.com/2e0byo/bib/compare/v1.40.0...v1.41.0) (2023-05-28)
+
+
+### Bug Fixes
+
+* dob: add foreword and remove period. ([4e45327](https://github.com/2e0byo/bib/commit/4e4532758ad7befb7ab141cd19cf31f2cb64817e))
+* typo. ([57ea247](https://github.com/2e0byo/bib/commit/57ea247ffeb0a6b7df1431ba73c157d50024010f))
+
+
+### Features
+
+* balthasar, presence et pensée. ([f9b677e](https://github.com/2e0byo/bib/commit/f9b677eedb6c5fc4de96f12a052405c713b0e545))
+* bouyer memoires. ([01d320b](https://github.com/2e0byo/bib/commit/01d320b2edd457f56f1f131a33a2117ed3e4157b))
+* congar textbook. ([b933521](https://github.com/2e0byo/bib/commit/b933521394eb1345b198f986044e50d7746d9f3b))
+* eodem sensu controversy. ([0264eed](https://github.com/2e0byo/bib/commit/0264eeded713750f1e000e6f332bb6b794b6ec6c))
+* grummett on lubac and teilhard. ([c6c799c](https://github.com/2e0byo/bib/commit/c6c799cd78e1a877b30ad0f9fc59dc6e688d49ef))
+* maréchal. ([9a1442c](https://github.com/2e0byo/bib/commit/9a1442cb6474de6ce28391c510391001936e70b2))
+* O'Regan on why balthasar is thick, or smth. ([2a344a2](https://github.com/2e0byo/bib/commit/2a344a27be63892dbdd8a9fc2e6853a8bf821a5e))
+* O'Regan, again. ([6fa0938](https://github.com/2e0byo/bib/commit/6fa0938fab9ba2c460d8f9725f8d2c4987c70012))
+
 # [1.40.0](https://github.com/2e0byo/bib/compare/v1.39.0...v1.40.0) (2023-05-25)
 
 
