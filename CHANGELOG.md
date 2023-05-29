@@ -1,3 +1,23 @@
+# [1.42.0](https://github.com/2e0byo/bib/compare/v1.41.1...v1.42.0) (2023-05-29)
+
+
+### Bug Fixes
+
+* classify ([b48cd1c](https://github.com/2e0byo/bib/commit/b48cd1c21e23ee5a12b08aa77d0cbd0f7ea3afb4))
+* classify. ([4732807](https://github.com/2e0byo/bib/commit/47328076e3a13d6ea08e2188c9d434c49868e727))
+* date ([59c224e](https://github.com/2e0byo/bib/commit/59c224e1d74ae634fc3e8f4c5ccc4de1bd8e186f))
+* date. ([d8e7f39](https://github.com/2e0byo/bib/commit/d8e7f39b7b7e8fc4ef898706fabe69c08c300ee4))
+* fixups. ([a109869](https://github.com/2e0byo/bib/commit/a1098694ed93c9a2649a0a126d1951f810f44913))
+* psuedonymous. ([edbbd5b](https://github.com/2e0byo/bib/commit/edbbd5bde55bff6baf67d68036ce535fd7429596))
+* standardise de lubac. ([429d793](https://github.com/2e0byo/bib/commit/429d793f4ce7bbae4fc361fb62b0126532b1a786))
+* typo. ([ff18d72](https://github.com/2e0byo/bib/commit/ff18d724523ae298a051be2e3d38ba49779a34cc))
+
+
+### Features
+
+* classify phd citations. ([74dedc6](https://github.com/2e0byo/bib/commit/74dedc694fa9b333c6df2c9645af1e9caae9063c))
+* more classification. ([a036dd9](https://github.com/2e0byo/bib/commit/a036dd9cef30a42d95a899cbca4e1c51c707b4ae))
+
 ## [1.41.1](https://github.com/2e0byo/bib/compare/v1.41.0...v1.41.1) (2023-05-29)
 
 
