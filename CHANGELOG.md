@@ -1,3 +1,10 @@
+## [1.41.1](https://github.com/2e0byo/bib/compare/v1.41.0...v1.41.1) (2023-05-29)
+
+
+### Bug Fixes
+
+* comma. ([a36eef9](https://github.com/2e0byo/bib/commit/a36eef927cda01ef2d9eb446a1996e4f62e298d1))
+
 # [1.41.0](https://github.com/2e0byo/bib/compare/v1.40.0...v1.41.0) (2023-05-28)
 
 
