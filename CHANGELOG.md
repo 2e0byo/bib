@@ -1,3 +1,11 @@
+## [1.42.2](https://github.com/2e0byo/bib/compare/v1.42.1...v1.42.2) (2023-05-31)
+
+
+### Bug Fixes
+
+* classify. ([316a07d](https://github.com/2e0byo/bib/commit/316a07daeb91ca8a85c46cec20f2d5e6fa7e484f))
+* date. ([5a9ff54](https://github.com/2e0byo/bib/commit/5a9ff549560e4879297f327d5207bad2df963faf))
+
 ## [1.42.1](https://github.com/2e0byo/bib/compare/v1.42.0...v1.42.1) (2023-05-29)
 
 
