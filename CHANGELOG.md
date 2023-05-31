@@ -1,3 +1,10 @@
+## [1.42.1](https://github.com/2e0byo/bib/compare/v1.42.0...v1.42.1) (2023-05-29)
+
+
+### Bug Fixes
+
+* standardise keys. ([a778e9d](https://github.com/2e0byo/bib/commit/a778e9d2c27065ead5402de1e78fbb69f8f0391a))
+
 # [1.42.0](https://github.com/2e0byo/bib/compare/v1.41.1...v1.42.0) (2023-05-29)
 
 
