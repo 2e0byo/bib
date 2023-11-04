@@ -1,3 +1,10 @@
+## [1.44.1](https://github.com/2e0byo/bib/compare/v1.44.0...v1.44.1) (2023-11-04)
+
+
+### Bug Fixes
+
+* add phd classifications. ([3efadfa](https://github.com/2e0byo/bib/commit/3efadfa5a9d3265c6b7232120f489376eb7f5e7f))
+
 # [1.44.0](https://github.com/2e0byo/bib/compare/v1.43.0...v1.44.0) (2023-11-04)
 
 
