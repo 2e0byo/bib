@@ -1,3 +1,10 @@
+# [1.44.0](https://github.com/2e0byo/bib/compare/v1.43.0...v1.44.0) (2023-11-04)
+
+
+### Features
+
+* sep on fallacies. ([ce1ead2](https://github.com/2e0byo/bib/commit/ce1ead2ed1b43bdb415cb79604229d1f7242288f))
+
 # [1.43.0](https://github.com/2e0byo/bib/compare/v1.42.3...v1.43.0) (2023-11-04)
 
 
