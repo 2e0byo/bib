@@ -1,3 +1,10 @@
+## [1.42.3](https://github.com/2e0byo/bib/compare/v1.42.2...v1.42.3) (2023-11-04)
+
+
+### Bug Fixes
+
+* typos. ([205a684](https://github.com/2e0byo/bib/commit/205a6842cf9f8a787bbeda5058c6d89493520e31))
+
 ## [1.42.2](https://github.com/2e0byo/bib/compare/v1.42.1...v1.42.2) (2023-05-31)
 
 
