@@ -1,3 +1,10 @@
+# [1.43.0](https://github.com/2e0byo/bib/compare/v1.42.3...v1.43.0) (2023-11-04)
+
+
+### Features
+
+* locke, essay on human understanding. ([aac20fc](https://github.com/2e0byo/bib/commit/aac20fc5c1e81660403db48f8761ad5bedec27fe))
+
 ## [1.42.3](https://github.com/2e0byo/bib/compare/v1.42.2...v1.42.3) (2023-11-04)
 
 
