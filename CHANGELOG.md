@@ -1,3 +1,17 @@
+## [1.44.1](https://github.com/2e0byo/bib/compare/v1.44.0...v1.44.1) (2023-11-04)
+
+
+### Bug Fixes
+
+* add phd classifications. ([3efadfa](https://github.com/2e0byo/bib/commit/3efadfa5a9d3265c6b7232120f489376eb7f5e7f))
+
+# [1.44.0](https://github.com/2e0byo/bib/compare/v1.43.0...v1.44.0) (2023-11-04)
+
+
+### Features
+
+* sep on fallacies. ([ce1ead2](https://github.com/2e0byo/bib/commit/ce1ead2ed1b43bdb415cb79604229d1f7242288f))
+
 # [1.43.0](https://github.com/2e0byo/bib/compare/v1.42.3...v1.43.0) (2023-11-04)
 
 
