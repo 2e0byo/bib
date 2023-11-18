@@ -1,3 +1,10 @@
+# [1.45.0](https://github.com/2e0byo/bib/compare/v1.44.1...v1.45.0) (2023-11-12)
+
+
+### Features
+
+* fagerberg. ([f30b9be](https://github.com/2e0byo/bib/commit/f30b9beec32ff4e0853104189f139fdef7bbad82))
+
 ## [1.44.1](https://github.com/2e0byo/bib/compare/v1.44.0...v1.44.1) (2023-11-04)
 
 
