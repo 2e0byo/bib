@@ -1,3 +1,10 @@
+# [1.46.0](https://github.com/2e0byo/bib/compare/v1.45.0...v1.46.0) (2023-11-18)
+
+
+### Features
+
+* caldwell. ([34153c9](https://github.com/2e0byo/bib/commit/34153c9097993a09fd74d98e99ae357fe9187dad))
+
 # [1.45.0](https://github.com/2e0byo/bib/compare/v1.44.1...v1.45.0) (2023-11-12)
 
 
