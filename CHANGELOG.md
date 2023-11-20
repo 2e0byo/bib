@@ -1,3 +1,13 @@
+# [1.47.0](https://github.com/2e0byo/bib/compare/v1.46.1...v1.47.0) (2023-11-20)
+
+
+### Features
+
+* carpenter's awful book. ([02632e7](https://github.com/2e0byo/bib/commit/02632e711beeb02fb93cb0690e4e10ed8666a2e6))
+* fagerberg's excellent _on liturgical asceticism_. ([6c51486](https://github.com/2e0byo/bib/commit/6c5148696bef02204bf4d6401ef0fc25b3e49365))
+* nostra aetate. ([7821f5c](https://github.com/2e0byo/bib/commit/7821f5c966d31963342a52d7bf91d2e7e5d4f797))
+* vatican 2 (lamb/levering). ([869b06a](https://github.com/2e0byo/bib/commit/869b06ac4007f01da35f04534ae63af9baa644d0))
+
 ## [1.46.1](https://github.com/2e0byo/bib/compare/v1.46.0...v1.46.1) (2023-11-18)
 
 
