@@ -1,3 +1,10 @@
+## [1.47.1](https://github.com/2e0byo/bib/compare/v1.47.0...v1.47.1) (2023-11-20)
+
+
+### Bug Fixes
+
+* classify. ([5630a83](https://github.com/2e0byo/bib/commit/5630a83178ba41a4c7f469c4d6f492d0880c0c45))
+
 # [1.47.0](https://github.com/2e0byo/bib/compare/v1.46.1...v1.47.0) (2023-11-20)
 
 
